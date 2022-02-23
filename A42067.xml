@@ -1,0 +1,438 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>[Nobilisssimo] viro Georgio vice-comiti à Tarbat, regulo Macleod à Castlehaven, &amp;c. ... Jacobus Gregorius.</title>
+            <author>Gregory, James, 1638-1675.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1690</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 27 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A42067</idno>
+            <idno type="STC">Wing G1911</idno>
+            <idno type="STC">ESTC R43226</idno>
+            <idno type="EEBO-CITATION">27047100</idno>
+            <idno type="OCLC">ocm 27047100</idno>
+            <idno type="VID">109930</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A42067)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 109930)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1718:29)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>[Nobilisssimo] viro Georgio vice-comiti à Tarbat, regulo Macleod à Castlehaven, &amp;c. ... Jacobus Gregorius.</title>
+                  <author>Gregory, James, 1638-1675.</author>
+               </titleStmt>
+               <extent>1 sheet ([1] p.).   </extent>
+               <publicationStmt>
+                  <publisher>Ex officina typographica societatis biblopolam,</publisher>
+                  <pubPlace>[Edinburgi :</pubPlace>
+                  <date>1690]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Imperfect: cropped; bracketed material in title, and imprint supplied from Wing.</note>
+                  <note>Reproduction of original in Bodleian Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="lat">lat</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Cromarty, George Mackenzie, --  Earl of, 1630-1714.</term>
+               <term>University of St. Andrews.</term>
+               <term>Mathematics --  Study and teaching --  Early works to 1800.</term>
+               <term>Philosophy --  Speeches, addresses, etc. --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2007-11</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2008-01</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-02</date>
+            <label>John Latta</label>Sampled and proofread</change>
+         <change>
+            <date>2011-02</date>
+            <label>John Latta</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="lat">
+      <body>
+         <div type="tract">
+            <pb facs="tcp:109930:1" rendition="simple:additions"/>
+            <head>
+               <gap reason="illegible: page cropped" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>LISSIMO VIRO GEORGIO Vice-Comiti à TARBAT, Regulo MACLEOD à CASTLEHAVEN, &amp;c.</head>
+            <p>VIdetur Sapientiae Studium à Principio in iis inveſtigandis fuiſſe collocatum, quae erant maximè conſpicua, quorum<expan>
+                  <am>
+                     <g ref="char:abque"/>
+                  </am>
+                  <ex>que</ex>
+               </expan> ſcientia ad vitam excolendam neceſſaria; Ideo<expan>
+                  <am>
+                     <g ref="char:abque"/>
+                  </am>
+                  <ex>que</ex>
+               </expan> ve<g ref="char:EOLhyphen"/>riſimile eſt vetuſtiſſimos Auctores Geometriam quandam circa motus Aſtrorum cumprimis coluiſſe. Erant tunc Philoſophi omnes unius Sectae, nempe Geometrae. Et ſi homines corporum minorum vires ad eas leges revocâſſent, quibus majora illa ſubjici perſpiciebant, fuiſſet Philoſophia omni aevo ſui ſimilis. At poſtquam ad Philoſophandum acceſſere Geometriae aut Expertes, aut minus periti, in diverſas Haereſes diſceſſum fuit Et cum uno communi nomine omnes Philoſophi appellarentur, paulatim multa ge<g ref="char:EOLhyphen"/>nera eſſe caeperunt, <hi>Ariſtotelici, Epicurei, Carteſiani,</hi> &amp;c. Quae appellationes nihil aliud deſignant, quam hominum abſque Geometriâ Philoſophari conantium errores. Dum hi aſperâ Dominatione Philoſophiam premerent, Geometrae tamen nihil de jure ſuo remittebant, ſed à primis inſtitutam Philoſophandi methodum proſequentes, facilè demonſtravere nihil ſibi officere Vulgi opiniones. Neque enim <hi>Euclidis</hi> Demonſtrationes turbentur ſive exſtent formae ſubſtantiales aut materia ſubtilis, ſive non exſtent. Unde factum fuit ut vulgares Philoſophi Geometriam dixerint abſtrahere à materiâ, quod iis qui Geometriam intelligunt ſignificat, Geometras non uti incertis &amp; falſis iſtis opi<g ref="char:EOLhyphen"/>nionibus, quas de naturâ materiae Sectarum Principes tradiderunt, quibuſ<expan>
+                  <am>
+                     <g ref="char:abque"/>
+                  </am>
+                  <ex>que</ex>
+               </expan> caetera ſua dogmata ſervire coëgerunt. Ego Veterum inſtitutum &amp; Geometrarum rationem ſecutus, Specimina haec Philoſophiae ab omni Sectâ ſemotae adornavi. Tibi autem, <hi>Vice-Comes Nobiliſſime,</hi> dicavi, quod non harum ſolum rerum peritiâ, ſed etiam excellenti Sapientiae civilis cognitione refulgeas, quâ mores hominum veluti Geometriâ tibi peculiari metiris, quodque non poſſis non favere honeſtis illis ſtudiis, quibus hoc aevo Diſciplinae Philoſophicae agitantur, quo Nomine omnia tibi fauſta vovet</p>
+            <closer>
+               <signed>
+                  <hi>Devotiſſimus Cliens</hi> JACOBUS GREGORIUS.</signed>
+            </closer>
+         </div>
+         <div type="list_of_candidates">
+            <head>CANDIDATORUM NOMINA.</head>
+            <list>
+               <item>
+                  <hi>Alexander Melvil.</hi>
+               </item>
+               <item>
+                  <hi>Andreas Moncrief.</hi>
+               </item>
+               <item>
+                  <hi>Archibaldus Stuart.</hi>
+               </item>
+               <item>
+                  <hi>Georgius Wiſhart.</hi>
+               </item>
+               <item>
+                  <hi>Guilielmus Dyck.</hi>
+               </item>
+               <item>
+                  <hi>Guilielmus Hay.</hi>
+               </item>
+               <item>
+                  <hi>Guilielmus Moncrief.</hi>
+               </item>
+               <item>JACOBUS BETHUN.</item>
+               <item>
+                  <hi>Jacobus Burly.</hi>
+               </item>
+               <item>
+                  <hi>Jacobus Thomſon.</hi>
+               </item>
+               <item>
+                  <hi>Jacobus Wilſon.</hi>
+               </item>
+               <item>
+                  <hi>Joannes Erbury.</hi>
+               </item>
+               <item>
+                  <hi>Joannes Hay.</hi>
+               </item>
+               <item>
+                  <hi>Joannes Tyrie.</hi>
+               </item>
+               <item>
+                  <hi>Joannes Weems.</hi>
+               </item>
+               <item>
+                  <hi>Philippus Davidſon.</hi>
+               </item>
+               <item>
+                  <hi>Philippus Martin.</hi>
+               </item>
+               <item>
+                  <hi>Robertus Flemin.</hi>
+               </item>
+               <item>
+                  <hi>Robertus Pitcairne.</hi>
+               </item>
+               <item>
+                  <hi>Thomas Anderſon.</hi>
+               </item>
+               <item>
+                  <hi>Thomas Young.</hi>
+               </item>
+            </list>
+            <p n="1">I. QUi ſibi aliiſ<expan>
+                  <am>
+                     <g ref="char:abque"/>
+                  </am>
+                  <ex>que</ex>
+               </expan> ſatisfacere inventis rerum cauſis annititut<g ref="char:punc">▪</g> operam dabit <hi>ne data cum quaeſitis</hi> confundat; ſed haec ab illis ita ſecernet, &amp; in diverſis quaſi memoriae cellulis reponet, ut non temere poſſit dubium &amp; quaeſitum pro dato &amp; conceſſo ob<g ref="char:EOLhyphen"/>trudi: Nequicquam enim illi ſperem ſatisfacere cui pro certo affirmaverim quod is pro incerto habuerit. Quare in <hi>Logica, quae eſt ars methodum tradens ritè utendi datis ad naturas quaſitorum inveniendas</hi>; non niſi duo, nempe datorum &amp; quaeſi<g ref="char:EOLhyphen"/>torum praedicamenta agnoſcimus. Unde etiam facile innoteſcit quo ritu &amp; quouſque Philoſophanti ſit dubitandum, ſcilicet quodvis tam diu pro incerto eſt habendum, quamdiu ne<expan>
+                  <am>
+                     <g ref="char:abque"/>
+                  </am>
+                  <ex>que</ex>
+               </expan> pro dato utrin<expan>
+                  <am>
+                     <g ref="char:abque"/>
+                  </am>
+                  <ex>que</ex>
+               </expan> uſurpatur; ne<expan>
+                  <am>
+                     <g ref="char:abque"/>
+                  </am>
+                  <ex>que</ex>
+               </expan> dato ulli aequale deprehenditur.</p>
+            <p>Nam cum datorum numerus non poſſit augeri, numerus enim eorum, quae ante noſtra tempora ſunt ab omnibus conceſſa, certus eſt ac definitus, id circo non poſſumus in cognitionem ullius quaeſiti devenire, niſi id alicui dato idem vel aequale invenetimus.</p>
+            <p n="2">II. Inveniemus autem tum demum rem quaeſitam eandem vel aequalem datae, cum ad propoſitionem devenerimus repreſentantem omnes quaelirae ad datam relationes, in cujus unâ parte nihil contineatur, quod non ante fuerit notum, ex alterâ ignotum; haec enim pro poſitio complectitur rei quaeſitae definitionem, in quâ nempe definitum non debet collocari. Verum ut ad hoc faſtigium per<g ref="char:EOLhyphen"/>tingamus, hic labor hoc opus eſt. Methodi tamen quâ hûc pervenitur ſumma in eo ſita eſt, ut utra<expan>
+                  <am>
+                     <g ref="char:abque"/>
+                  </am>
+                  <ex>que</ex>
+               </expan> pars propoſitionis evolvendae, ſeu ſubjectum &amp; praedicatum eodem modo tractentur, neutrum<expan>
+                  <am>
+                     <g ref="char:abque"/>
+                  </am>
+                  <ex>que</ex>
+               </expan> ullâ ratione immutetur vel afficiatur, quâ alterum non fuerit ſimiliter immutatum vel adfectum.</p>
+            <p n="3">III. Ignorantiae hujus methodi acceptum ferimus, quod tam diu à tam multis hominum in agendo phyſicam libertatem docentibus, Divinae praeſcientiae infallibilitas fuerit negata. Facile quippe fuerit oſtendere iſtorum in hac re paralogiſmos ex eo ſolo eſſe natos, quod propoſitionum, quibus argumenta ſua inſtruunt, utram<expan>
+                  <am>
+                     <g ref="char:abque"/>
+                  </am>
+                  <ex>que</ex>
+               </expan> partem non eodem prorſus modo tractiverint, ſed variè &amp; inaequaluer im<g ref="char:EOLhyphen"/>mutârint. Ignorantiae etiam hujus methodi tribuimus quod <hi>Ariſtoteles</hi> in Philoſophia Naturali, dum ſua traderet, tam miſerè &amp; infal<g ref="char:EOLhyphen"/>libiliter errârit. Et quod ipſe <hi>Carteſius</hi> tam ſaepe &amp; ingenioſè lapſus ſit, non aliunde profectum putamus, quam quod methodum quam optimè callebat, non ſemper coluerit. At quod de humano genere optime meritus <hi>Iſaacus Neuton,</hi> in nullâ re non ſit verita<g ref="char:EOLhyphen"/>tem adeptus, quod<expan>
+                  <am>
+                     <g ref="char:abque"/>
+                  </am>
+                  <ex>que</ex>
+               </expan> ſors humana hanc illi faelicitatem, quâ nulla major homini poteſt contingere reſervârit; non id caſui ſed divi<g ref="char:EOLhyphen"/>no viti genio optimâ methodo rerum cauſas exquirenti, erit adſcribendum. Hujus ita<expan>
+                  <am>
+                     <g ref="char:abque"/>
+                  </am>
+                  <ex>que</ex>
+               </expan> veſtigia legemus, ejuſ<expan>
+                  <am>
+                     <g ref="char:abque"/>
+                  </am>
+                  <ex>que</ex>
+               </expan> ex ſcriptis Philoſo<g ref="char:EOLhyphen"/>phicis perpetuâ vitâ digniſſimis, ea principia decerpemus, quibus Philoſophia naturalis non ſolum inaedificari, ſed &amp; extra ſydera ſoliſ<expan>
+                  <am>
+                     <g ref="char:abque"/>
+                  </am>
+                  <ex>que</ex>
+               </expan> vias in immenſum poſſit proferri.</p>
+            <p n="4">IV. <hi>Natura corporis in ſoliditate ſeu partium cohaeſione conſiſtit, Spatii verò in Extenſione.</hi> Spatium vel Abſolutum eſt, quod ſemper perſtat ſimilare &amp; immobile abſ<expan>
+                  <am>
+                     <g ref="char:abque"/>
+                  </am>
+                  <ex>que</ex>
+               </expan> relatione ad externum quodvis, vel Relativum, quod eſt Spatii abſoluti menſura ſeu dimenſio quae<g ref="char:EOLhyphen"/>libet mobilis, quae à ſenſibus noſtris per ſitum ſuum ad corpora definitur. Spatii pars quam occupat corpus hujus <hi>Locus</hi> dicitur; qui pro ratione Spatii, abſolutus eſt vel relativus. <hi>Motus eſt corporis de loco in locum tranſlatio,</hi> eſt<expan>
+                  <am>
+                     <g ref="char:abque"/>
+                  </am>
+                  <ex>que</ex>
+               </expan> etiam abſolutus vel relativus, prout locus qui mutatur abſolutus eſt aut relativus. Atque hic <hi>Carteſius</hi> peccati erit arguendus, quod Motus definitionem attulerit quae definitum comprehenderit.</p>
+            <p n="5">V. Lex primaria à rerum Auctore corporibus indita, praeter notiſſimas illas à <hi>Wallifio, Wrenio, &amp; Hugenio</hi> demonſtratas, de muta<g ref="char:EOLhyphen"/>tionibus motûs factis, ad corporum quorumcun<expan>
+                  <am>
+                     <g ref="char:abque"/>
+                  </am>
+                  <ex>que</ex>
+               </expan> occurſus, eſt, <hi>Quod quaelibet cujuſcun<expan>
+                     <am>
+                        <g ref="char:abque"/>
+                     </am>
+                     <ex>que</ex>
+                  </expan> corporis pars ad aliam quamlibet cujuſvis cor<g ref="char:EOLhyphen"/>poris partem tendat,</hi> id eſt, verſus illam impellatur vel trahatur, eâ lége, ut vites quibus particula quaelibet verſus aliam tendit, in diverſis ab eâ diſtantiis, ſint quadratis diſtantiarum reciprocè proportionales.</p>
+            <p n="6">VI. Si ita<expan>
+                  <am>
+                     <g ref="char:abque"/>
+                  </am>
+                  <ex>que</ex>
+               </expan> in ſpatiis liberis ſeu minimè reſiſtentibus, corpora quaevis minima circum aliud quodvis minimum immotum tanquam centrum rotentur: in ſectionum Conicarum aliquâ umbilicum habente in iſto virium centro revolventur; areaſ<expan>
+                  <am>
+                     <g ref="char:abque"/>
+                  </am>
+                  <ex>que</ex>
+               </expan> deſcribent tem<g ref="char:EOLhyphen"/>poribus proportionales; temporum<expan>
+                  <am>
+                     <g ref="char:abque"/>
+                  </am>
+                  <ex>que</ex>
+               </expan> periodicorum quadrata erunt ut cubi radiorum: ut demonſtravit <hi>Neutonus.</hi> Idem quo<expan>
+                  <am>
+                     <g ref="char:abque"/>
+                  </am>
+                  <ex>que</ex>
+               </expan> pluribus Sphaeris accidit, quarum una ſuum habet centrum in virium centro collocatum, reliquae verò circum hanc immotam agi<g ref="char:EOLhyphen"/>tantur; ſi modò à Sphaerarum revolventium in ſe mutuo actione praeſcindatur, ſolumque attendatur ad actionem uniuſcujuſ<expan>
+                  <am>
+                     <g ref="char:abque"/>
+                  </am>
+                  <ex>que</ex>
+               </expan> partis revolventium in unamquamque Sphaerae immotae partem.</p>
+            <p n="7">VII. Conſtat etiam ex obſervationibus Aſtronomicis, Planetas Joviales &amp; Saturnales radiis ad Jovis &amp; Saturni centra ductis, areas deſcribere temporibus proportionales; eorum<expan>
+                  <am>
+                     <g ref="char:abque"/>
+                  </am>
+                  <ex>que</ex>
+               </expan> tempora periodica eſſe in ratione diſtantiarum à Jovis &amp; Saturni centris ſeſquialterâ; &amp; Lunam etiam radio ad terrae centrum ducto, aream tempori proportionalem deſcribere; &amp; quin<expan>
+                  <am>
+                     <g ref="char:abque"/>
+                  </am>
+                  <ex>que</ex>
+               </expan> praeterea Planetarum primario<g ref="char:EOLhyphen"/>rum Mercurii ſcilicet, Veneris, Martis, Jovis &amp; Saturni orbes Solem cingere; horum<expan>
+                  <am>
+                     <g ref="char:abque"/>
+                  </am>
+                  <ex>que</ex>
+               </expan> planetarum &amp; Terrae quo<expan>
+                  <am>
+                     <g ref="char:abque"/>
+                  </am>
+                  <ex>que</ex>
+               </expan> circa Solem (aut ſolis circum Terram) tempora periodica eſſe in ratione ſeſquialterâ Mediarum à Sole diſtantiatum; quorundam verò Planeta<g ref="char:EOLhyphen"/>rum primariorum orbes Terram non cingere; eorum<expan>
+                  <am>
+                     <g ref="char:abque"/>
+                  </am>
+                  <ex>que</ex>
+               </expan> nullum radiis ad Terrae centrum ductis areas deſcribere temporibus propor<g ref="char:EOLhyphen"/>tionales, cum illorum nullus non ſit aliquando retrogradus, tempuſ<expan>
+                  <am>
+                     <g ref="char:abque"/>
+                  </am>
+                  <ex>que</ex>
+               </expan> interea fluat aequaliter; nullum<expan>
+                  <am>
+                     <g ref="char:abque"/>
+                  </am>
+                  <ex>que</ex>
+               </expan> etiam eſſe, qui non radiis ad Solem ductis areas temporibus proportionales deſcribat.</p>
+            <p n="8">VIII. Ex quibus clariſſimè demonſtratur ordo partium mundi, qualem propoſuit <hi>Pythagoras Samius,</hi> nunc <hi>Syſtematis Copernicani</hi> no<g ref="char:EOLhyphen"/>mine inſignitus: Patet<expan>
+                  <am>
+                     <g ref="char:abque"/>
+                  </am>
+                  <ex>que</ex>
+               </expan> vires quibus Planetae Joviales perpetuò retrahuntur à motibus rectilineis (quales corpora in circulum delata niſi impediantur, conſtat ſecundum tangentium directionem exerere) &amp; in orbibus ſuis retinentur, Jovis centrum reſpicere; atque eſſe reciprocè ut diſtantiarum ab eodem centro quadrata. Quod<expan>
+                  <am>
+                     <g ref="char:abque"/>
+                  </am>
+                  <ex>que</ex>
+               </expan> de Jovis ſatellitibus ipſius reſpectu dictum eſt, etiam de Planetis Saturnalibus Saturni reſpectu, &amp; de Terrâ caeteriſ<expan>
+                  <am>
+                     <g ref="char:abque"/>
+                  </am>
+                  <ex>que</ex>
+               </expan> planetis primariis reſpectu Solis dictum intelligatur. Vis quoque quâ Luna in orbi<g ref="char:EOLhyphen"/>tâ ſuà retinetur Terram reſpicit, eſtque reciprocè ut quadratum diſtantiae locorum à tetrae centro.</p>
+            <p n="9">IX. Habet ergo Luna vim centripetam in Terram, planetae Joviales in Jovem, Saturnales in Saturnum, reliquique ſecundatii, ſi qui alii ſint, ut jam Martem ſatellite donari ſuſpicatur perſpicaciſſimus <hi>D. Caſsini,</hi> in ſuos reſpectivè primarios; &amp; ſolares in îpſum So<g ref="char:EOLhyphen"/>lem; at<expan>
+                  <am>
+                     <g ref="char:abque"/>
+                  </am>
+                  <ex>que</ex>
+               </expan> hac vi centripetâ à motibus rectilineis retrahuntur, &amp; in curvilineis orbitis retinentur.</p>
+            <p n="10">X. Cum ex lege mutuae tendentiae cujuſ<expan>
+                  <am>
+                     <g ref="char:abque"/>
+                  </am>
+                  <ex>que</ex>
+               </expan> corporis in corpus quodvis, certum ſit, planetas deferri in aliquâ ſectionum conicarum, nulla<expan>
+                  <am>
+                     <g ref="char:abque"/>
+                  </am>
+                  <ex>que</ex>
+               </expan> ſit ſectio conica in ſe rediens praeter circulum &amp; ellipſim, liquet harum alteram cujuſ<expan>
+                  <am>
+                     <g ref="char:abque"/>
+                  </am>
+                  <ex>que</ex>
+               </expan> planetae eſſe ſemitam. Planetae Jovia<g ref="char:EOLhyphen"/>les &amp; Saturnales in circulis quam proximè ſuis reſpectivè planetis primariis concentricis revolvuntur; primarii autem Planetae mo<g ref="char:EOLhyphen"/>ventur in ellipſibus umbilicum in Solis centro habentibus.</p>
+            <p n="11">XI. Verum cum Planetae non tantum tendunt in Solem, &amp; viciſſim Sol in Planetas, ſed &amp; quivis planeta in quemvis, hinc orbitae ellipticae planetarum, aliquantulum deformes evadunt, unde inaequalitates in ipſorum motibus, quae in Lunae orbitâ maximè ſenſibi<g ref="char:EOLhyphen"/>les erunt, quaſ<expan>
+                  <am>
+                     <g ref="char:abque"/>
+                  </am>
+                  <ex>que</ex>
+               </expan> ex verâ Phyſicâ, hiſce principiis innixâ, calculo ſubjicere non foret arduum.</p>
+            <p n="12">XII. Haec ipſa <hi>centripetentia</hi> ſive <hi>vis centripeta</hi> quando conſideratur in corporibus, reſpectu telluris noſtrae, <hi>Gravitas</hi> appellatur; eſt<g ref="char:EOLhyphen"/>que in iiſdem a Terrae centro diſtantiis quantitati materiae proportionalis; adeò ut quae mole aequalia inaequaliter tamen gravitant, o<g ref="char:EOLhyphen"/>porteat habere inaequalem materiae quantitatem; nec enim figura, ne<expan>
+                  <am>
+                     <g ref="char:abque"/>
+                  </am>
+                  <ex>que</ex>
+               </expan> motus partium, neque aliud quidpiam, gravitatem immi<g ref="char:EOLhyphen"/>nuere aut tollere poteſt. Unde ſequitur <hi>Materia naturam in extenſione non conſiſtere,</hi> &amp; <hi>vacuum neceſſariò dari,</hi> alioquin corpora aequalis magnitudinis ſemper eſſent aequigravia.</p>
+            <p n="13">XIII. Quod de vi ad Terrae centrum dictum eſt, etiam de vi ad alterius cujuſvis planetae centrum tendente eſt intelligendum; niſi quod ſecundum quantitatem materiae in ſingulis planetis, ejuſdem vel aequalis corporis gravitas, in eâdem à diverſis planetis diſtantiâ nunc major, nunc minor ſit: Quae calculo ſubjicere facile fuerit. Talis autem magnitudinis &amp; denſitatis eſt quilibet planeta, ut ejus vis centripeta quâ ad ſui motûs centrum tendit, &amp; vis centrifuga quâ in rectâ ſuam orbitam tangente recedere conatur; aequali<g ref="char:EOLhyphen"/>ter agant; ſecùs aut perpetuò ad centrum motûs ſui, propiùs accederet planeta, aut ab eo longiùs recederet, nec orbitam in ſe redeun<g ref="char:EOLhyphen"/>tem deſcriberet: ſed &amp; ita collocavit <hi>Deus</hi> planetas in diverſis à Sole diſtantiis, ut quilibet pro gradu denſitatis calore Solis majori vel minori fiuatur; Adeò ut aqua noſtra rigeſceret, ſi Terra in orbe Saturni locaretur; ſi in Mercurii Orbitâ, in vapores ſtatim abiret.</p>
+            <p n="14">XIV. Quandoquidem, Sol, Terra, caeteri<expan>
+                  <am>
+                     <g ref="char:abque"/>
+                  </am>
+                  <ex>que</ex>
+               </expan> planetae in ſe mutuò omnes gravitant, &amp; propterea pro vi gravitatis ſuae ſecundum motiis leges perpetuò agitantur, perſpicuum eſt, quod horum nullius centrum, quippe mobile, pro <hi>mundi centro</hi> haberi debeat; ſed com<g ref="char:EOLhyphen"/>mune centrum gravitatis Solis &amp; omnium planetarum, expanſique inter ipſos fluidi, quod ab actionibus mutuis non moveri, uni<g ref="char:EOLhyphen"/>verſaliter, inter alias motûs leges à Philoſophis eſt demonſtratum, pro mundi centro ſit habendum. Ab hoc verò Solis centrum quam minimè diſcedere ex eo evincitur, quod multò plus materiae in Sole contineatur, quam in omnibus planetis &amp; primariis &amp; ſecundariis.</p>
+            <p n="15">XV. Eodem quo planetae modo, in ſectionibus conicis, umbilicos in Solis centro habentibus, moventur <hi>Cometae,</hi> radiiſ<expan>
+                  <am>
+                     <g ref="char:abque"/>
+                  </am>
+                  <ex>que</ex>
+               </expan> ad Solem ductis areas deſcribunt temperibus proportionales; &amp; ſi illorum orbitae in ſe redeant, ellipſes erunt quarum focorum diſtantia ad axem, magnam habet rationem, pro quibus in calculo tutò poterint parabolae uſurpari. Cometas &amp; ſupralunares eſſe ex defectu pa<g ref="char:EOLhyphen"/>rallaxeos diurnae, &amp; in regione planetarum exiſtere ex parallaxi annuâ patet. Quod Cometae cauda ſit Solis jubar, per tranſlucidum co<g ref="char:EOLhyphen"/>metae caput propogatum, opinio eſt eorum, qui ſcientiâ rerum opticarum nondum ſunt, imbuti: Experientiae magis conſentaneum eſt eam nihil aliud eſſe, quàm vaporem longe tenuiſſimum Solis radios ad nos reflectentem, quem caput ſeu nucleus cometae per ca<g ref="char:EOLhyphen"/>lorem intenſum à Sole acceptum emittit. Caput verò cometae eſſe corpus denſum admodum &amp; fixum, ex eo patet, quod in <hi>Perihelio</hi> obſervatus ſit cometa, eam tantum à Sole diſtantiam obtinere, ut calor in iſtius capitea Sole excitatus, 2000 quaſi vic ibus candentis ferri calorem ſuperet.</p>
+            <p n="16">XVI. Dum planetae formabantur, oportebat eorum quemque figuram induere <hi>Spheroidis latae,</hi> genitae ex rotatione ſemiellipſeos circa minorem axem, ob materiam Planetae adhuc fluidam verſus aequatorem aſſurgentem, propter vim centrifugam ex ejus motu diurno ortam; quodet in Terrâ &amp; in reliquis omnibus obtinere deprehenſum eſt: Et ex hâc majoris ad aequatorem quam verſus polos vi centrifugâ oritur, quod ejusdem vel aequalis penduli vibrationes majori tempore perficiantur, eademque corpora minus graviterit juxta aequatorem quam polos: quodque filum pondere onuſtum ad Terrae centrum non tendat, niſi Juxta aequatorem aut polos. Unde (niſi adhibeatur aequatio) corruit menſura univerſalis ope penduli tranſmittenda, incertaeque redduntur obſervationes caeleſtes ope perpendiculi factae. Ek eâdem Terrae figurâ facile deducitur, quod puncta aequinoctialia regrediantur, quodque axis Terrae fingulis re<g ref="char:EOLhyphen"/>volutionibus nutando bis ad eclipticam inclinetur &amp; bis poſitioni priori reſtituatur.</p>
+            <p n="17">XVII. Quamvis Secundum prius oſtenſa gravitas extra Terrae ſuperficiem ſit reciprocè ut quadratum diſtantiae a centro, intra ta<g ref="char:EOLhyphen"/>men Terrae ſuperficiem erit ut diſtantia ab eodem; unde geometricè determinantur cycloides in quibus agitata gravia tam ſupra quam infra ſuperficiem vibrationes edunt iſochronas, quae in cycloidem vulgi degenerant cum Terrae centrum eſſe infinitè diſſitum et gra<g ref="char:EOLhyphen"/>vitatem unformiter agere aſſumitur.</p>
+            <p n="18">XVIII. Cum magna ſuperficiei Telluris pars fluido tegatur, ideſt corporibus minimis non cohaerentibus, patet fluidum hoc ad Lunae aut Solis praeſentiam attolli, quod et in parte Telluris oppoſitâ etiam evenire oſtendit <hi>Newtonus,</hi> etenim aquae propioris major, remotio<g ref="char:EOLhyphen"/>ris minor erit attractio: Motus autem bini quos luminaria duo excitant diſtincti non cernentur, ſed motum quendam mixtum effici<g ref="char:EOLhyphen"/>ent: In luminarium conjunctione aut oppoſitione conjungentur corumeffectus, &amp; componetur fluxus et refluxus maximus; in quadra<g ref="char:EOLhyphen"/>turis Sol attollet aquam ubi Luna deprimet, deprimetque ubi Luna attollet, et ex effectuum differentiâ aeſtus omnium minimus exorietur. Lunae autem ob viciniam vis ad mare movendum vi Solis multo major eſt. Limitantur etiam hi effectus a variis Luminarium à Terrae diſtantiis, ab aequatore declinationibus, locorum latitudine, aliiſque quae longum eſſet recenſere.</p>
+            <p n="19">XIX. Syſtema mundi <hi>Pythagoricum</hi> ſuperius ſtabilitum, plurious, explicavit <hi>Ariſtarchus,</hi> itidem <hi>Samius</hi> ab <hi>Archimede</hi> in <hi>Arenario</hi> citatus, in <hi>libro de mundi ſyſtemate,</hi> qui ad noſtra uſque tempora pervenit; in quo praeter purè Aſtronomica, etiam Phyſica ad Syſtema perti<g ref="char:EOLhyphen"/>nentia explicanda ſuſcipit: Planetas à <hi>Vorticis</hi> materiâ cui innatant, et in quâ relativè quieſcunt, jubet circa Solem deferri, ſuoſque vortices ſive ut vocat, minora Syſtemata poſſidere; &amp; Lunam à Terrae vortice devehi, atque ab illa vorticis circum Tellurem rotatione <hi>maris reciprocationes</hi> dependere. Adeo ut palam ſit in libro hoc reperiri quaecunque <hi>Copernieus</hi> de mundi Syſtemate Aſtronomica reli<g ref="char:EOLhyphen"/>quit, quaeque de illo Philoſophica tradit <hi>Carteſius.</hi> Haud exiguam tamen, aureo huic libello lucem adferre arbitramur <hi>Propoſitiones Hydroſtaticas</hi> ad illuſtrandum <hi>Ariſtarchi Samii</hi> Syſtema à <hi>Fr. Jeſſopio</hi> nuper conſcriptas.</p>
+            <p n="20">XX. Cum manifeſtum ſit corpora, quae in vortice delata in orbem redeunt, eâdem cum partibus vorticis lege moveri; et Lib: 2. <hi>Princip: Math: Philoſ. Nat:</hi> Demonſtratum ſit tempora periodica partium fluidi in orbem acti eſſe, vel ut ipſarum ſunt ab axe diſtantiae, vel ut harum diſtantiarum quadrata: prout ſolidum circa axem, à cujus impulſu agitur fluidum in orbem, eſt vel Cylindrus vel Sphae<g ref="char:EOLhyphen"/>ra; harum autem Proportionum neutra in corporibus coeleſtibus obtineat, ſed ubique planetarum revolventium tempora ſint in ra<g ref="char:EOLhyphen"/>tione ſeſquialterâ Diſtantiarum à centro circa quod revolvuntur, liquet <hi>Planetas as à vorticibus non deferri</hi>: Praetera cum in hoc vorticum <hi>Ariſtarchi</hi> Syſtemate minores Vortices in majoribus contineantur, non definientur hi certis limitibus, ſed in ſe mutuo paulatim excurrent; globique in centris poſiti, per actiones vorticum in ſe mutuo agentium perpetuo è locis ſuis expellentur, neque certam aliquam inter ſe poſitionem ſervabunt; quin etiam ceſſantibus viribus externis materia vorticum ſenſim requieſcet, et in vortices agi deſinet ut oſtendit <hi>Neutonus.</hi>
+            </p>
+            <p n="21">XXI. Suppoſito vorticum ſyſtemate cullibet in Aſtronomicis vel mediocriter verſato patet, fieri non poſſe ut planetarum excen<g ref="char:EOLhyphen"/>tricitates eaedem maneant; orbiumque plana non uniantur, omnia tamen per Solem tranſeant; temporis enim decurſu cum plano eclipticae Solis coincidere illa oporteret. Huic vorticum Syſtemati etiam adverſatur cometarum Tranſitus per Planetarum orbes, cum contra vorticis motum ad Planetas deferendos ſufficientem cometas moveri ſaepius ſit deprehenſum.</p>
+            <p n="22">XXII. Cum itaque <hi>Vorticum hypotheſis, cumphaenomenis Astronomicis omnino pugnet, &amp; non tam ad explicandos quam perturbandos motus coeleſtes conducat</hi>; ſitque ſuperius oſtenſum quomodo motus iſti in ſpatiis liberis abſque vorticibus peragantur, ex ſuppoſitâ mutuâ cujuſvis corporis minimi in quodvis minimum tendentiâ, eâ lege ut vires ſint diſtintiarum quadratis reciprocè proportionales: cumque Phaenomena exhiſce hypotheſibus explicari queant; patet Hypotheſes initio aſſumptas veras eſſe et genuinas Naturae leges; Non enim reciproca haec ab hypotheſibus ad Phaenomena, et viciſſim á Phaenomenis ad hypotheſes ratiocinatio circulus eſt, ſed legiti<g ref="char:EOLhyphen"/>ma in Phyſicis inveniendi veritatem methodus.</p>
+            <p n="23">XXIII. Una cum vorticibus corruit &amp; omnis illis inaedificata gravitatis explicatio a <hi>Carteſio, Perraltio, Jeſſopio,</hi> aliiſque tradita, cum etiam poſitis vorticibus, illi extra aequatoris planum obſervati effectus non producerentur, quod cum <hi>magnus ille Geometra Hugenius</hi> obſervaret, gravitatem explicare aggreſſus eſt adhibito motu rapidiſſimo matêriae fluidae circa Terrae centrum quaquaverſum, non in eaſdem partes, ueque circa axem poſitione datum inſtar vorticis latae; ſed demus precarium iſtum motum illi fluidae materiae ſemel fuiſſe impreſſum, conſervari tamen nequit; Neque etiam prodeſt illa motus regula ab <hi>Hugenio</hi> jamdudum orbi literato oſtenſa, quod poſito ſemel motu, aequalis ſemper conſervetur ejus quantitas verſus eaſdem partes, hoc enim obtinet tum demum ſi auferatur illa motus quantitas quae eſt ad partes contrarias; adeo ut regulâ hâc non obſtante, omnis iſta materia fluida ſic mota poſſit ad quietem tandem reduci. Et mirum eſt ſanè <hi>Hugenium</hi> in tracta<gap reason="illegible: faint" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> nuper edito de <hi>Graevitate,</hi> potuiſſe aſſerere ſe aſſentiri <hi>Neutono</hi> affirmanti gravi<g ref="char:EOLhyphen"/>tatem quantitati materiae proportionalem eſſe, cum <hi>Hugenius</hi> interea quandam ponat materiam omnis gravitatis expertem; quâ po<g ref="char:EOLhyphen"/>ſitâ poſſit corpus quodvis ex gravi fieri non grave, ex partium figurae &amp; motus mutatione, cui repugnat experientia, metallum enim fuſione, quâ illius partes et minutiſſimae et maximè agitatae deveniunt, adeo<expan>
+                  <am>
+                     <g ref="char:abque"/>
+                  </am>
+                  <ex>que</ex>
+               </expan> ad naturam corporum gravitate carentium magis acce<g ref="char:EOLhyphen"/>dunt non tantum omnem gravitatem non amittit, ſed ne quidem ejus partem quam minimam.</p>
+            <p n="24">XXIV Eaſdem quas alia corpora leges tam impulſus quam mutuae tendentiae, obſervant et illa quibus propagantur <hi>Lux et ſonus, et</hi> horum omnium Phaenomena ex iſtis legibus Geometricé explicantur. Tam Sonus quam Lumen à corpore ſonoro vel lucido propa<g ref="char:EOLhyphen"/>gantur per <hi>undulationes</hi> ſphaericas quaquaverſum in medio uniformi: quod ſi medium ſit facilius pervium, undulationique prompti<g ref="char:EOLhyphen"/>us cedat ſecundum unam quàm alteram dimenſionem, ſphaerarum loco ſunt ſphaeroides ſumendae. <hi>Lux, ut et Sonus, ſucceſsivè propa<g ref="char:EOLhyphen"/>gatur</hi> multò tamen ſono velocius, ipſamque à ſole ad Terram uſque <hi>decem</hi> quaſi <hi>minutorum</hi> ſpatio pervenire conſtat ex pluribus diver<g ref="char:EOLhyphen"/>ſorum Aſtronomorum circa Jovis fatellites obſervationibus. Lucis radii in aere exiſtentes tranſitu ſuo prope corporum, ſive opaca ſint, ſive diaphana angulos incurvantur ſcilicet in corpora haec attracti. Ratio tam reflectionis quam refractionis regularis lucis, et re<g ref="char:EOLhyphen"/>flectionis ſoni ad ſuperficies quarum inaequalitates particulis quibus ſe propagant longè majores ſunt, facilè ex undulationibus, ex aliâ quâvis theoriâ non niſi aegrè redditur.</p>
+            <p n="25">XXV. Etſi luminis radii eâdem inclinatione in idem medium incidentes, eandem ſemper et notam reflectionis legem obſervent, diverſimodè tamen pro diverſis quibus imbuuntur coloribus refringuntur, et longé aliter ſe res habet in refractione quam Philoſophi vulgò crediderunt: extat enim medium denſitatis ab acris denſitate diverſae, <hi>Chrystallum ſc. Iſlandicum</hi> ex <hi>Hugenii</hi> obſervatione, in quo planum per radium incidentem et refractum tranſiens non eſt ubique ad planum refringens normale: Quandoque radius per<g ref="char:EOLhyphen"/>pendiculariter incidens in medium diverſae denſitatis refringitur; et oblique incidens abſque refractione progreditur: Aliquando ra<g ref="char:EOLhyphen"/>dius ſimplex ad ſuperficiem refringentem finditur quaſi in duos diſtinctos, quandoque eodem manente incidentiae Angulo abſque di<g ref="char:EOLhyphen"/>viſione progreditur, et vel vulgares refractionis legis obſervat, vel contra eaſdem peccat: Omnium tamen horum Phaenomen<gap reason="illegible: blotted" extent="1 letter">
+                  <desc>•</desc>
+               </gap>n ratio geometrica ex praedictis principiis deducitut. Simile quiddam <hi>Chryſtallo</hi> quoque <hi>Nativo</hi> accidit, unde patet pellucidum à naturâ productum minus aptum eſſe radiis detorquendis ad formandas viſibilium imagines, quàm quod arte fabricatur; immo contendit <hi>Neutonus</hi> optimas fieri lentes objectivas, ſi ex binis vitris ſphaericè figuratis et a quam mediam includentibus conflentur. Re<g ref="char:EOLhyphen"/>fractio radiorum ad ſuperficiem atmoſphaerae in cauſa non eſt, cur ſydera elevatiora videantur quam revera ſunt, ſed radiorum intra ip<g ref="char:EOLhyphen"/>ſam atmoſphaeram incurvatio; quae etiam efficit ut viſibilia intra atmoſphaeram poſita altiora quàm ſunt nonnunquam appareant.</p>
+            <p>
+               <hi>SPecimina haec Philoſophica, ſupraſcripti Adoleſcentes è Collegio</hi> SANCTI-SALVATORIS NOSTRI <hi>ad lauream Magiſterialem aſpirantes, in publico <g ref="char:V">Ʋ</g>niverſitatis</hi> S. Andreae <hi>auditorio. ad diem Iulii, favente Deo, ſub prae<g ref="char:EOLhyphen"/>ſidio</hi> Jacobi Gregorii, <hi>eruditorum examini ſubjicient.</hi>
+            </p>
+         </div>
+      </body>
+   </text>
+</TEI>
